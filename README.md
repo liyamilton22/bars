@@ -16,3 +16,11 @@
 ## Стек
 
 Vue 3 + ASP.NET Core + PostgreSQL
+## Документация
+
+- [Предложение темы](docs/project-proposal.md)
+- [ЛР1: техническое задание](docs/lab-01-requirements.md)
+- [ЛР2: архитектура](docs/architecture.md)
+- [ЛР2: модель данных](docs/data-model.md)
+- [ЛР2: API-контракт](docs/api-contract.md)
+- [ЛР2: матрица требований](docs/requirements-matrix.md)
