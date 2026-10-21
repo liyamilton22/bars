@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 .vs/
+
+node_modules/
+dist/
+.DS_Store
