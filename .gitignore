@@ -224,3 +224,6 @@ dist/
 .DS_Store
 
 .env
+
+**/bin/
+**/obj/
