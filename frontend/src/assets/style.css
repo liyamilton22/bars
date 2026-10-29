@@ -29,7 +29,7 @@ h2 {
     font-size: 1.3rem;
 }
 
-/* формы */
+/* пїЅпїЅпїЅпїЅпїЅ */
 form {
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@ button {
     font-size: 0.9rem;
 }
 
-/* таблица */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 .table-wrap {
     overflow-x: auto;
 }
@@ -109,4 +109,8 @@ th {
 .empty {
     text-align: center;
     color: var(--muted);
+}
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
